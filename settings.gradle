@@ -1,0 +1,1 @@
+include ':app', ':servlets-backend', ':endpoint-backend', ':gcm-backend'

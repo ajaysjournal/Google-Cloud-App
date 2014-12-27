@@ -1,0 +1,17 @@
+C:\R+\github\Google-Cloud-App\app\build\intermediates\classes\debug
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ba1f560f971431db0dc789979db78868a2ae0d4e.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-433920f381d6704bb4998983596b34c49b937a15.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-f7a3a09c83a79389dbf444a7dc926e4051bbea7a.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\endpoint-backend-android-endpoints-4bda9b88522292b257a25c7e3e0ef9e39e505fc9.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-55758f609af17069b5eb273895cdb30dfb5f4fdb.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\gcm-backend-android-endpoints-265f1c02b57769be11e90ed2b82de19c31ce8c46.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-a5d56fc862cedba6b9676fdb6e3bd5122bc789fc.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-d768ad62436e600bd7a9e127e6bd991e31c692ea.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d408de6050768ac58bacce0be79ac97a7d941514.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-41c144e940bbcf445b118a9e360b3d12be127d83.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-0581b5445b62f21cf4768bf48ee589fa5625bbf0.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-12733d91696717affc60ea07e452c93340e26a2c.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\classes-ff670b5c0c4ff73943de330379c8b10c9474a50f.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\classes-6bb9ae8333d8685abbe8e55445591f632f1fe095.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-da856b11ac8559fa4a56006d208c8c419e1c8008.jar
+C:\R+\github\Google-Cloud-App\app\build\intermediates\pre-dexed\debug\classes-95fa49ebdc6a443174dba899a68d3c646d6c6fdb.jar
